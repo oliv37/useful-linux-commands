@@ -4,14 +4,14 @@
 </div>
 
 
-### Disk Space Usage
+#### 1. Disk Space Usage
 
 **`df -h`**
 
 - df : report file system disk space usage
 - -h : human readable
 
-### File Space Usage
+#### 2. File Space Usage
 
 **`du -sh /home/john`**
 
