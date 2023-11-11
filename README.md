@@ -1,6 +1,6 @@
 <div align="center">
   <img width="96" height="96" src="https://img.icons8.com/color/96/linux--v1.png" alt="linux--v1"/>
-  <h1>Usefull Linux Commands</h1>
+  <h1>Useful Linux Commands</h1>
 </div>
 
 
